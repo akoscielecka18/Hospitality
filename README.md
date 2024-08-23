@@ -38,19 +38,19 @@ Key Performance Indicatos(KPIs):
 #### Insights
 Overall Analysis
 
--Occupancy was higher on the weekends than on weekdays about 17,8 %
--The revenue from the luxury category was higher than from the business category.
+- Occupancy was higher on the weekends than on weekdays about 17,8 %
+- The revenue from the luxury category was higher than from the business category.
 
 Revenue Analysis
 
--Revenues between May and July were better than in the previous month.
--The largest week-over-week revenue increase occurred at the turn of June and July, amounting to 22,25 %
--Revenue decreased at the turn of May and June, while it increased at the turn of June and July.
+- Revenues between May and July were better than in the previous month.
+- The largest week-over-week revenue increase occurred at the turn of June and July, amounting to 22,25 %
+- Revenue decreased at the turn of May and June, while it increased at the turn of June and July.
 
 Booking Analysis
 
--The number of cancelled bookings was higher than the number of no-show bookings in each month.
--The three most popular booking platforms, excluding the 'Other' category (41,01%), were 'Makeyourtrip' (19,97%), 'LongTrip' (10,97 %) and 'Direct online' (9,83%).
+- The number of cancelled bookings was higher than the number of no-show bookings in each month.
+- The three most popular booking platforms, excluding the 'Other' category (41,01%), were 'Makeyourtrip' (19,97%), 'LongTrip' (10,97 %) and 'Direct online' (9,83%).
 
 Rating Analysis
 
