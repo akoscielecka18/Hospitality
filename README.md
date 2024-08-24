@@ -58,3 +58,13 @@ Rating Analysis
 - Delhi had the highest average rating (3,78), despite having the fewest total bookings (24 k).
 - The three most frequently given ratings overall were '5' (19 k), '3' (18k), '4' (10k).
 - The highest average rating (3,75) was for the Presidential room for 4 guests, while the lowest (3,5) was for the Premium room for 5 guests. Overall, the highest average ratings were in single and double rooms.
+
+  #### Key Enhancements to Dashboard
+
+- Seamless Page Navigation
+- 'clear all filters' bottom, 'show hotel category' bottom
+- A tooltip showing week-over-week revenue on a line chart and a tooltip displaying booking statuses on a pie chart based on room class.
+- A parameter allowing the selection of the average rating.
+
+
+#### Data and challenge are from Codebasics.
